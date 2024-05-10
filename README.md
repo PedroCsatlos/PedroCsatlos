@@ -1,7 +1,7 @@
 ### Ola!!Boas vindas ao meu perfil🖤🕸️
 
 
-Meu nome é Pedro Csatlo       
+Meu nome é Pedro Csatlos       
 - Estou estudando na [Alura](https://www.alura.com.br/)
 - Estou me desenvolvendo nas linhguangens html,css e JavaScript
 - Utilizo esse espaço para minha organização de compartilhamento
